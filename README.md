@@ -1,16 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</div>
 
-<!--
-**DanC-rep/DanC-rep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3>My contacts :</h3>
+<div id="badges" align="center">
+  <a href="https://vk.com/barbaridze">
+    <img src="https://github.com/DanC-rep/DanC-rep/blob/main/1.png" alt="VK Badge" style="max-width: 100%;" width="50" height="50"/>
+  </a>
+  <a href="https://t.me/barbaridze">
+    <img src="https://github.com/DanC-rep/DanC-rep/blob/main/2.png" alt="Telegram Badge" style="max-width: 100%;" width="50" height="50"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>Languages and Tools :</h3>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ </div>
