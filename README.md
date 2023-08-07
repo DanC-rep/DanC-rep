@@ -32,7 +32,7 @@
   <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg1.png" style="width: 25%;">
   <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg2.png" style="width: 25%;">
   <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg3.png" style="width: 25%;">
-  <p><a href="https://github.com/DanC-rep/Tower-defense-game/tree/main/Tower%20defense/Assets/Scripts">Browse code</a></p>
+  <p><a href="https://github.com/DanC-rep/Clash-of-Towers/tree/main/Tower%20defense/Assets/Scripts">Browse code</a></p>
 </div>
 <div align="center">
   <h3>Dungeon RPG (Prototype)</h3>
