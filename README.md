@@ -4,7 +4,7 @@
 
 ---
 
-<h3>Languages and Tools :</h3>
+<h3>Languages and Tools:</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
@@ -13,7 +13,7 @@
  
 ---
 
-<h3>My contacts :</h3>
+<h3>My contacts:</h3>
 <div id="badges" align="center">
   <a href="https://vk.com/barbaridze">
     <img src="https://github.com/DanC-rep/DanC-rep/blob/main/1.png" alt="VK Badge" style="max-width: 100%;" width="50" height="50"/>
@@ -21,6 +21,14 @@
   <a href="https://t.me/barbaridze">
     <img src="https://github.com/DanC-rep/DanC-rep/blob/main/2.png" alt="Telegram Badge" style="max-width: 100%;" width="50" height="50"/>
   </a>
+</div>
+
+---
+
+<h3>My projects:</h3>
+<div align="center">
+  <h4>Clash of Towers</h4>
+  <p>The goal of the game is to destroy the enemy tower. The player has to go through levels, buy units, improve them, as well as his tower</p>
 </div>
 
 
