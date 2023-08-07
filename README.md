@@ -27,8 +27,11 @@
 
 <h3>My projects:</h3>
 <div align="center">
-  <h4>Clash of Towers</h4>
+  <h3>Clash of Towers</h3>
   <p>The goal of the game is to destroy the enemy tower. The player has to go through levels, buy units, improve them, as well as his tower</p>
+  <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg1.png" style="width: 25%;">
+  <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg2.png" style="width: 25%;">
+  <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg3.png" style="width: 25%;">
 </div>
 
 
