@@ -27,6 +27,14 @@
 
 <h3>My projects:</h3>
 <div align="center">
+  <h3><a href="https://yandex.ru/games/app/278525?lang=ru">Fantasy Clicker: Legend of the Elements</a></h3>
+  <p>In the this game you can play as 5 different unique heroes with their own elemental abilities. You have to defeat enemies to strengthen your heroes and discover new exciting locations!</p>
+  <img src="https://github.com/DanC-rep/DanC-rep/blob/main/FantasyClicker1.png" style="width: 25%;">
+  <img src="https://github.com/DanC-rep/DanC-rep/blob/main/FantasyClicker2.png" style="width: 25%;">
+  <img src="https://github.com/DanC-rep/DanC-rep/blob/main/FantasyClicker3.png" style="width: 25%;">
+  <p><a href="https://github.com/DanC-rep/Fantasy-Clicker/tree/main/FantasyClicker">Browse code</a></p>
+</div>
+<div align="center">
   <h3><a href="https://yandex.ru/games/app/240890?lang=ru">Clash of Towers</a></h3>
   <p>The goal of the game is to destroy the enemy tower. The player has to go through levels, buy units, improve them, as well as his tower.</p>
   <img src="https://github.com/DanC-rep/DanC-rep/blob/main/ClashOfTowersImg1.png" style="width: 25%;">
