@@ -1,5 +1,5 @@
 ## 💫 About Me:
-💻 I'm Software Developer.<br>    🌎 I'm based in Russia.<br>    🚀 I'm learning fullstack development using Asp.Net Core and React<br>    ⚡ I`m currently working on PawsAndHearts<br>
+💻 I'm Software Developer.<br>    🌎 I'm based in Russia.<br>    🚀 I'm learning fullstack development using Asp.Net Core and React<br>    ⚡ I`m currently working on [PawsAndHearts](http://github.com/DanC-rep/PawsAndHearts)<br>
 ### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,js,react,git,docker)](https://skillicons.dev)
 ### 📊 GitHub Stats:
